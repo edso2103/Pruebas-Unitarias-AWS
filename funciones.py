@@ -1,9 +1,9 @@
-from sympy import *
+# from sympy import *
 
-def primos(n):
-    return isprime(n)
+# def primos(n):
+#     return isprime(n)
     
-# def sumar(x,y):
-#     return x+y
+def sumar(x,y):
+    return x+y
 
     
