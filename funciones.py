@@ -4,6 +4,6 @@
 #     return isprime(n)
     
 def sumar(x,y):
-    return x+y
+    return x*y
 
     
